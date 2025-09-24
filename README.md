@@ -79,7 +79,7 @@ This dashboard enables stakeholders to:
 
 # Screenshots
 
-Chocolate Sales Dashboard.png
+https://github.com/sujityadav0505/chocolate-sales-dashboard/blob/main/Chocolate%20Sales%20Dashboard.png
 
 - Executive Summary Screenshot – Highlights KPIs and MoM trends
 
