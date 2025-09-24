@@ -79,7 +79,7 @@ This dashboard enables stakeholders to:
 
 # Screenshots
 
-(Insert images of your Power BI dashboard here to visually demonstrate the features)
+Chocolate Sales Dashboard.png
 
 - Executive Summary Screenshot – Highlights KPIs and MoM trends
 
