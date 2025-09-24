@@ -1,12 +1,10 @@
 # Chocolate-Sales-Dashboard
 
-
-
-# Project Overview
+1. Project Overview
 
 A comprehensive business intelligence dashboard designed to monitor and analyze the performance of a global chocolate manufacturing company. This interactive dashboard transforms complex operational data into clear, actionable insights for strategic decision-making across sales, operations, and finance.
 
-# Key Objectives
+2. Key Objectives
 
 - Performance Monitoring: Track key metrics including sales ($34M), profit ($21M), shipments, and costs with month-over-month comparisons
 
@@ -16,7 +14,7 @@ A comprehensive business intelligence dashboard designed to monitor and analyze 
 
 - Strategic Insights: Identify growth opportunities and areas needing improvement through data-driven analysis
 
-# Tools and Technologies
+3. Tools and Technologies
 
 - Power BI: Primary visualization and dashboard development
 
@@ -26,7 +24,7 @@ A comprehensive business intelligence dashboard designed to monitor and analyze 
 
 - Data Modeling: Relationship building between sales, product, and operational data
 
-# Dashboard Features
+4. Dashboard Features
 - Executive Summary
 
 High-Level KPIs: Total sales, profit, boxes, shipments, and costs with MoM trends
@@ -55,7 +53,7 @@ Filtering: Segment data by product category, region, and time period
 
 Comparative Analysis: MoM performance tracking across all metrics
 
-# Key Insights Uncovered
+5. Key Insights Uncovered
 
 - Profit Growth: Identified 23.24% MoM profit increase despite sales decline, indicating effective margin management
 
@@ -65,7 +63,7 @@ Comparative Analysis: MoM performance tracking across all metrics
 
 - Cost Management: Highlighted need to align cost growth (+1077%) with revenue performance
 
-# Business Impact
+6. Business Impact
 
 This dashboard enables stakeholders to:
 
@@ -77,7 +75,7 @@ This dashboard enables stakeholders to:
 
 - Allocate resources to highest-performing markets and products
 
-# Screenshots
+7. Screenshots
 
 https://github.com/sujityadav0505/chocolate-sales-dashboard/blob/main/Chocolate%20Sales%20Dashboard.png
 
@@ -89,7 +87,7 @@ https://github.com/sujityadav0505/chocolate-sales-dashboard/blob/main/Chocolate%
 
 - Interactive Dashboard Screenshot – Demonstrates drill-through, filters, and comparative analysis
 
-# Contact
+8. Contact
 
 - Sujit Yadav
 - Email: yadavsujit977@gmail.com
@@ -98,3 +96,4 @@ https://github.com/sujityadav0505/chocolate-sales-dashboard/blob/main/Chocolate%
 
 
 Feel free to connect to discuss this project or data analytics opportunities!
+
