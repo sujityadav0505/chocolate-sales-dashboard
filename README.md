@@ -27,31 +27,31 @@ A comprehensive business intelligence dashboard designed to monitor and analyze 
 ## Dashboard Features
 - Executive Summary
 
-'''High-Level KPIs: Total sales, profit, boxes, shipments, and costs with MoM trends
+``` High-Level KPIs: Total sales, profit, boxes, shipments, and costs with MoM trends
 
-Quick Insights: Immediate visibility into what's growing (+23.24% profit) and what needs attention (-10.76% sales)'''
+Quick Insights: Immediate visibility into what's growing (+23.24% profit) and what needs attention (-10.76% sales)```
 
 - Product Performance Analysis
 
-'''Margin Tracking: Profit percentage vs. 60% target for each product
+```Margin Tracking: Profit percentage vs. 60% target for each product
 
 Top Performers: Identification of high-margin products (99% Dark & Pure at 79.96%)
 
-Improvement Opportunities: Products below target margins flagged for review'''
+Improvement Opportunities: Products below target margins flagged for review```
 
 - Geographic & Operational Insights
 
-'''Market Coverage: Performance across USA, UK, Canada, Australia, New Zealand, and India
+```Market Coverage: Performance across USA, UK, Canada, Australia, New Zealand, and India
 
-Shipment Efficiency: Analysis of shipping volumes and associated costs'''
+Shipment Efficiency: Analysis of shipping volumes and associated costs```
 
 - Interactive Capabilities
 
-'''Drill-Through: Navigate from summary metrics to detailed product analysis
+```Drill-Through: Navigate from summary metrics to detailed product analysis
 
 Filtering: Segment data by product category, region, and time period
 
-Comparative Analysis: MoM performance tracking across all metrics'''
+Comparative Analysis: MoM performance tracking across all metrics```
 
 ## Key Insights Uncovered
 
