@@ -1,10 +1,10 @@
 # chocolate-sales-dashboard
 
-Project Overview
+
+📊 Project Overview
 A comprehensive business intelligence dashboard designed to monitor and analyze the performance of a global chocolate manufacturing company. This interactive dashboard transforms complex operational data into clear, actionable insights for strategic decision-making across sales, operations, and finance.
 
-Screenshot - 
-Key Objectives
+🎯 Key Objectives
 Performance Monitoring: Track key metrics including sales ($34M), profit ($21M), shipments, and costs with month-over-month comparisons
 
 Product Portfolio Analysis: Evaluate profitability across 16+ product lines against 60% target margins
@@ -13,7 +13,7 @@ Operational Efficiency: Monitor shipment volumes (6K total) and cost management 
 
 Strategic Insights: Identify growth opportunities and areas needing improvement through data-driven analysis
 
-Tools and Technologies
+🛠️ Tools and Technologies
 Power BI: Primary visualization and dashboard development
 
 DAX: Custom measures for calculated metrics and KPIs
@@ -22,7 +22,7 @@ Power Query: Data transformation and cleaning
 
 Data Modeling: Relationship building between sales, product, and operational data
 
-Dashboard Features
+📈 Dashboard Features
 Executive Summary
 High-Level KPIs: Total sales, profit, boxes, shipments, and costs with MoM trends
 
@@ -47,7 +47,7 @@ Filtering: Segment data by product category, region, and time period
 
 Comparative Analysis: MoM performance tracking across all metrics
 
-Key Insights Uncovered
+💡 Key Insights Uncovered
 Profit Growth: Identified 23.24% MoM profit increase despite sales decline, indicating effective margin management
 
 Operational Scale: Detected massive volume growth (+1100% boxes, +1117% shipments) suggesting market expansion
@@ -56,7 +56,7 @@ Product Mix: Revealed both premium high-margin products and mass-market opportun
 
 Cost Management: Highlighted need to align cost growth (+1077%) with revenue performance
 
-Business Impact
+🚀 Business Impact
 This dashboard enables stakeholders to:
 
 Make informed decisions on product portfolio optimization
@@ -71,5 +71,7 @@ Contact
 Sujit Yadav
 Email: yadavsujit977@gmail.com
 LinkedIn: www.linkedin.com/in/sujit-yadav-0aa22b291
+
+Feel free to connect to discuss this project or data analytics opportunities!
 
 Feel free to connect to discuss this project or data analytics opportunities!
