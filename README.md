@@ -1,6 +1,7 @@
 # Chocolate-Sales-Dashboard
 
 
+
 # Project Overview
 
 A comprehensive business intelligence dashboard designed to monitor and analyze the performance of a global chocolate manufacturing company. This interactive dashboard transforms complex operational data into clear, actionable insights for strategic decision-making across sales, operations, and finance.
