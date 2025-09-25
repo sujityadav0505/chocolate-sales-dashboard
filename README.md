@@ -1,12 +1,12 @@
-# 🍫 Chocolate-Sales-Dashboard
+# Chocolate-Sales-Dashboard
 
-## 📌 Project Overview
+## Project Overview
 A comprehensive **business intelligence dashboard** designed to monitor and analyze the performance of a global chocolate manufacturing company.  
 This interactive dashboard transforms complex operational data into clear, actionable insights for **strategic decision-making across sales, operations, and finance**.
 
 ---
 
-## 🎯 Key Objectives
+## Key Objectives
 - **Performance Monitoring**: Track key metrics including **sales ($34M)**, **profit ($21M)**, shipments, and costs with month-over-month comparisons.  
 - **Product Portfolio Analysis**: Evaluate profitability across **16+ product lines** against **60% target margins**.  
 - **Operational Efficiency**: Monitor shipment volumes (**6K total**) and cost management across international markets.  
@@ -14,7 +14,7 @@ This interactive dashboard transforms complex operational data into clear, actio
 
 ---
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 - **Power BI** → Primary visualization and dashboard development  
 - **DAX** → Custom measures for calculated metrics and KPIs  
 - **Power Query** → Data transformation and cleaning  
@@ -22,7 +22,7 @@ This interactive dashboard transforms complex operational data into clear, actio
 
 ---
 
-## 📊 Dashboard Insights & Impact
+## Dashboard Insights & Impact
 
 
 Product Performance:
@@ -40,10 +40,10 @@ Interactive Capabilities:
 - Comparative Analysis: MoM performance tracking across all metrics
 
 Key Insights Uncovered:
-- 📈 Profit Growth: Identified 23.24% MoM profit increase despite sales decline
-- 🚀 Operational Scale: +1100% boxes, +1117% shipments indicating market expansion
-- 🍬 Product Mix: Both premium high-margin products and mass-market opportunities
-- 💰 Cost Management: Cost growth (+1077%) needs alignment with revenue performance
+- Profit Growth: Identified 23.24% MoM profit increase despite sales decline
+- Operational Scale: +1100% boxes, +1117% shipments indicating market expansion
+- Product Mix: Both premium high-margin products and mass-market opportunities
+- Cost Management: Cost growth (+1077%) needs alignment with revenue performance
 
 Business Impact:
 - Portfolio Optimization: Make informed decisions on product mix
@@ -52,7 +52,7 @@ Business Impact:
 - Market Allocation: Focus resources on high-performing regions and products ```
 
 ## Screenshots
-
+https://github.com/sujityadav0505/chocolate-sales-dashboard/blob/main/Chocolate%20Sales%20Dashboard.png
 ## Contact
 👤 Sujit Yadav
 📧 Email: yadavsujit977@gmail.com
