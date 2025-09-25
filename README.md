@@ -49,6 +49,14 @@ Business Impact:
 - Portfolio Optimization: Make informed decisions on product mix
 - Operational Efficiency: Improve shipping and cost management
 - Strategic Tracking: Monitor KPIs in real-time vs. targets
-- Market Allocation: Focus resources on high-performing regions and products
+- Market Allocation: Focus resources on high-performing regions and products ```
+
+# Screenshots
+
+# Contact
+👤 Sujit Yadav
+📧 Email: yadavsujit977@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/sujit-yadav-0aa22b291
 
 
