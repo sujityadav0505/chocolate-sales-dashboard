@@ -24,7 +24,7 @@ This interactive dashboard transforms complex operational data into clear, actio
 
 ## 📊 Dashboard Insights & Impact
 
-```text
+
 Product Performance:
 - Margin Tracking: Profit percentage vs. 60% target for each product
 - Top Performers: Identification of high-margin products (99% Dark & Pure at 79.96%)
@@ -51,9 +51,9 @@ Business Impact:
 - Strategic Tracking: Monitor KPIs in real-time vs. targets
 - Market Allocation: Focus resources on high-performing regions and products ```
 
-# Screenshots
+## Screenshots
 
-# Contact
+## Contact
 👤 Sujit Yadav
 📧 Email: yadavsujit977@gmail.com
 
